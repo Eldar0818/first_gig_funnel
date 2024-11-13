@@ -123,6 +123,9 @@ body{
 @media (max-width: 468px) {
     .large-poster-box{
         height: 10vh;
+        background-image: none;
+        background-size: auto;
+        background-position: 0;
         background-color: var(--secondary);
     }
 }
