@@ -120,6 +120,12 @@ body{
     }
 }
 
+@media (max-width: 468px) {
+    .large-poster-box{
+        height: 100vh;
+    }
+}
+
 .sector01{
     max-width: 760px;
     width: 100%;
